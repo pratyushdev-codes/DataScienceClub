@@ -1,4 +1,4 @@
-Developed a web app using React JS for a club at my university. The website serves as a dedicated platform for the club, allowing members to access information, stay updated on events, and engage with the club's activities."
+Developed a web app using React JS for a club at my university. The website serves as a dedicated platform for the club, allowing members to access information, stay updated on events, and engage with the club's activities.
 ![image](https://github.com/pratyushdev-codes/DataScienceClub/assets/109750976/602c4632-cab9-451d-8d8b-f09be91173e5)
 ![image](https://github.com/pratyushdev-codes/DataScienceClub/assets/109750976/dcb7731f-4803-4a84-ad9d-5bd4d276afb8)
 ![image](https://github.com/pratyushdev-codes/DataScienceClub/assets/109750976/eda8fdb4-686d-409b-a8b5-12044dbaa632)
